@@ -1,0 +1,161 @@
+#EXTM3U
+
+# Bangladeshi
+#EXTINF:0 tvg-id="ext" group-title="Bangladeshi",ATN Bangla
+http://tv.dugdugilive.com:8080/1Sky22/AtnBangla/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Bangladeshi",Ananda TV
+http://tv.dugdugilive.com:8080/1Sky22/AnandaTV/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Bangladeshi",Asian TV
+http://tv.dugdugilive.com:8080/1Sky22/Asian/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Bangladeshi",Bangla TV
+http://tv.dugdugilive.com:8080/1Sky22/BanglaTV/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Bangladeshi",BTV
+http://tv.dugdugilive.com:8080/1Sky22/BTV/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Bangladeshi",Bangla Vision
+http://tv.dugdugilive.com:8080/1Sky22/BanglaVision/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Bangladeshi",Boishakhi
+http://tv.dugdugilive.com:8080/1Sky22/Boishakhi/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Bangladeshi",Channel I
+http://tv.dugdugilive.com:8080/1Sky22/Channel-I/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Bangladeshi",Channel 9
+http://tv.dugdugilive.com:8080/1Sky22/Channel9/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Bangladeshi",Deepto TV
+http://tv.dugdugilive.com:8080/1Sky22/Deepto/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Bangladeshi",Desh TV
+http://tv.dugdugilive.com:8080/1Sky22/DeshTV/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Bangladeshi",Ekushey TV
+http://tv.dugdugilive.com:8080/1Sky22/EkusheyTV/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Bangladeshi",Maasranga TV
+http://tv.dugdugilive.com:8080/1Sky22/Massranga/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Bangladeshi",Mohona TV
+http://tv.dugdugilive.com:8080/1Sky22/Mohona/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Bangladeshi",My TV
+http://tv.dugdugilive.com:8080/1Sky22/mytv/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Bangladeshi",Nagorik TV
+http://tv.dugdugilive.com:8080/1Sky22/Nagorik/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Bangladeshi",NTV
+http://tv.dugdugilive.com:8080/1Sky22/NTV/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Bangladeshi",RTV
+http://tv.dugdugilive.com:8080/1Sky22/RTV/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Bangladeshi",SA TV
+http://tv.dugdugilive.com:8080/1Sky22/satv/index.m3u8
+
+# News
+#EXTINF:0 tvg-id="ext" group-title="News",ATN News
+http://tv.dugdugilive.com:8080/1Sky22/ATN-News/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="News",Channel 24
+http://tv.dugdugilive.com:8080/1Sky22/Channel24/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="News",DBC
+http://tv.dugdugilive.com:8080/1Sky22/DBC/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="News",Ekattor TV
+http://tv.dugdugilive.com:8080/1Sky22/Ekattor/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="News",Independent
+http://tv.dugdugilive.com:8080/1Sky22/Independent/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="News",Jamuna TV
+http://tv.dugdugilive.com:8080/1Sky22/JamunaTV/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="News",News 24
+http://tv.dugdugilive.com:8080/1Sky22/News24/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="News",Somoy News
+http://tv.dugdugilive.com:8080/1Sky22/SomoyTV/index.m3u8
+
+# Islamic
+#EXTINF:0 tvg-id="ext" group-title="Islamic",ATN Islamic
+http://tv.dugdugilive.com:8080/1Sky22/ATNIslamic/index.m3u8
+
+# Sports
+#EXTINF:0 tvg-id="ext" group-title="Sports",Gazi TV
+http://tv.dugdugilive.com:8080/1Sky22/GaziTV/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Sports",T Sports
+http://tv.dugdugilive.com:8080/TSports-Live/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Sports",Live Sports
+http://tv.dugdugilive.com:8080/1Sky22/LiveSP/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Sports",Sony Six
+http://tv.dugdugilive.com:8080/1Sky22/sonysix/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Sports",Ten 1
+http://tv.dugdugilive.com:8080/1Sky22/sonyten1/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Sports",Ten 2
+http://tv.dugdugilive.com:8080/1Sky22/sonyten2/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Sports",Ten 3
+http://tv.dugdugilive.com:8080/1Sky22/sonyten3/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Sports",Star Sports 1
+http://tv.dugdugilive.com:8080/1Sky22/StarSports22/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Sports",PTV Sports
+http://tv.dugdugilive.com:8080/1Sky22/PTV/index.m3u8
+
+# Indian
+#EXTINF:0 tvg-id="ext" group-title="Indian",Zee Bangla
+http://tv.dugdugilive.com:8080/1Sky22/ZeeBangla/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Indian",Star Jalsa
+http://tv.dugdugilive.com:8080/1Sky22/starJalsa/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Indian",Star Plus
+http://tv.dugdugilive.com:8080/1Sky22/StarPlus/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Indian",Star Vharat
+http://tv.dugdugilive.com:8080/1Sky22/StarBharat/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Indian",Colors Bangla
+http://tv.dugdugilive.com:8080/1Sky22/colors-bangla/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Indian",Colors
+http://tv.dugdugilive.com:8080/1Sky22/Colors/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Indian",Sony Aat
+http://tv.dugdugilive.com:8080/1Sky22/Dhoom/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Indian",Sony TV
+http://tv.dugdugilive.com:8080/1Sky22/SonyTV/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Indian",Zee TV
+http://tv.dugdugilive.com:8080/1Sky22/ZeeTV/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Indian",Zee ETC
+http://tv.dugdugilive.com:8080/1Sky22/ZetcE24/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Indian",&TV
+http://tv.dugdugilive.com:8080/1Sky22/AndTV/index.m3u8
+
+# Kids
+#EXTINF:0 tvg-id="ext" group-title="Kids",Nick
+http://tv.dugdugilive.com:8080/1Sky22/NickBN/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Kids",Cartoon Network
+http://tv.dugdugilive.com:8080/1Sky22/Cartoon/index.m3u8
+
+# Music
+#EXTINF:0 tvg-id="ext" group-title="Music",Gaan Bangla
+http://tv.dugdugilive.com:8080/1Sky22/GaanBangla/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Music",Dil Se Music
+http://tv.dugdugilive.com:8080/1Sky22/DilSe/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Music",Hangama Music
+http://tv.dugdugilive.com:8080/1Sky22/Kadak/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Music",B4U Music
+http://tv.dugdugilive.com:8080/1Sky22/B4U/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Music",Zoom Music
+http://tv.dugdugilive.com:8080/1Sky22/Zoom/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Music",MTV
+http://tv.dugdugilive.com:8080/1Sky22/MTVin/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Music",9xM
+http://tv.dugdugilive.com:8080/1Sky22/9xM/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Music",9xM Jalwa
+http://tv.dugdugilive.com:8080/1Sky22/9xjalwa/index.m3u8
+
+# Movies
+#EXTINF:0 tvg-id="ext" group-title="Movies",Jalsa Movies
+http://tv.dugdugilive.com:8080/1Sky22/jalshamovies/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Movies",Zee Cinema Bangla
+http://tv.dugdugilive.com:8080/1Sky22/ZeeBnCinema/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Movies",Zee Cinema
+http://tv.dugdugilive.com:8080/1Sky22/ZeeCinema/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Movies",&Pictures
+http://tv.dugdugilive.com:8080/1Sky22/AndPictures/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Movies",Zee Bollywood
+http://tv.dugdugilive.com:8080/1Sky22/ZBolloyWoord/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Movies",Sony Max
+http://tv.dugdugilive.com:8080/1Sky22/SonyMax/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Movies",Star Gold
+http://tv.dugdugilive.com:8080/1Sky22/StarGold/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Movies",Bflix
+http://tv.dugdugilive.com:8080/1Sky22/bFlix/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Movies",Sony Pix
+http://tv.dugdugilive.com:8080/1Sky22/SonyPix/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Movies",Star Movies
+http://tv.dugdugilive.com:8080/1Sky22/StarMovies/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Movies",&Prive
+http://tv.dugdugilive.com:8080/1Sky22/AndPrive/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Movies",HBO
+http://tv.dugdugilive.com:8080/1Sky22/HBO/index.m3u8
+
+# Others
+#EXTINF:0 tvg-id="ext" group-title="Others",Discovery
+http://tv.dugdugilive.com:8080/1Sky22/Discovery/index.m3u8

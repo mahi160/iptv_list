@@ -1,185 +1,106 @@
 #EXTM3U
 
 # Bangladeshi
-#EXTINF:0 tvg-id="ext" group-title="Bangla (I)",ATN Bangla
-http://tv.dugdugilive.com:8080/1Sky22/AtnBangla/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Bangla (I)",Ananda TV
-http://tv.dugdugilive.com:8080/1Sky22/AnandaTV/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Bangla (I)",Asian TV
-http://tv.dugdugilive.com:8080/1Sky22/Asian/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Bangla (I)",Bangla TV
-http://tv.dugdugilive.com:8080/1Sky22/BanglaTV/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Bangla (I)",BTV
-http://tv.dugdugilive.com:8080/1Sky22/BTV/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Bangla (I)",Bangla Vision
-http://tv.dugdugilive.com:8080/1Sky22/BanglaVision/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Bangla (I)",Boishakhi
-http://tv.dugdugilive.com:8080/1Sky22/Boishakhi/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Bangla (I)",Channel I
-http://tv.dugdugilive.com:8080/1Sky22/Channel-I/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Bangla (I)",Channel 9
-http://tv.dugdugilive.com:8080/1Sky22/Channel9/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Bangla (I)",Deepto TV
-http://tv.dugdugilive.com:8080/1Sky22/Deepto/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Bangla (I)",Desh TV
-http://tv.dugdugilive.com:8080/1Sky22/DeshTV/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Bangla (I)",Ekushey TV
-http://tv.dugdugilive.com:8080/1Sky22/EkusheyTV/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Bangla (I)",Maasranga TV
-http://tv.dugdugilive.com:8080/1Sky22/Massranga/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Bangla (I)",Mohona TV
-http://tv.dugdugilive.com:8080/1Sky22/Mohona/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Bangla (I)",My TV
-http://tv.dugdugilive.com:8080/1Sky22/mytv/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Bangla (I)",Nagorik TV
-http://tv.dugdugilive.com:8080/1Sky22/Nagorik/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Bangla (I)",NTV
-http://tv.dugdugilive.com:8080/1Sky22/NTV/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Bangla (I)",RTV
-http://tv.dugdugilive.com:8080/1Sky22/RTV/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Bangla (I)",SA TV
-http://tv.dugdugilive.com:8080/1Sky22/satv/index.m3u8
-
-# Jagobd
-#EXTINF:0 group-title="Bangla (J)",Ananda TV
+#EXTINF:0 group-title="Bangla",Ananda TV
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/anandatv.stream/chunks.m3u8
-#EXTINF:0 group-title="Bangla (J)",Asian TV
+#EXTINF:0 group-title="Bangla",Asian TV
 https://tempamb.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/asian-test-sample-ok-d.stream/chunks.m3u8
-#EXTINF:0 group-title="Bangla (J)",ATN Bangla
+#EXTINF:0 group-title="Bangla",ATN Bangla
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/atnbd-8-org.stream/chunks.m3u8
-#EXTINF:0 group-title="Bangla (J)",Bangla TV
+#EXTINF:0 group-title="Bangla",Bangla TV
 https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/banglatvhd.stream/chunks.m3u8
-#EXTINF:0 group-title="Bangla (J)",Bangla TV
+#EXTINF:0 group-title="Bangla",Bangla TV
 https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/banglav000.stream/chunks.m3u8
-#EXTINF:0 group-title="Bangla (J)",Bangla 21
+#EXTINF:0 group-title="Bangla",Bangla 21
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/bangla21tv000889956-sg.stream/chunks.m3u8
-#EXTINF:0 group-title="Bangla (J)",Boishakhi TV
+#EXTINF:0 group-title="Bangla",Boishakhi TV
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/boishakhitv-org.stream/chunks.m3u8
-#EXTINF:0 group-title="Bangla (J)",Boishakhi TV Plus
+#EXTINF:0 group-title="Bangla",Boishakhi TV Plus
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/boishakhiplus.stream/chunks.m3u8
-#EXTINF:0 group-title="Bangla (J)",Bijoy TV
+#EXTINF:0 group-title="Bangla",Bijoy TV
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/bijoy00.stream/chunks.m3u8
-#EXTINF:0 group-title="Bangla (J)",BTV World
+#EXTINF:0 group-title="Bangla",BTV
+http://15.1.5.14:8082/btv/tracks-v1a1/mono.m3u8
+#EXTINF:0 group-title="Bangla",BTV World
 https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/btvbd-office-sg.stream/chunks.m3u8
-#EXTINF:0 group-title="Bangla (J)",Channel I
+#EXTINF:0 group-title="Bangla",Channel I
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/channeli-8-org.stream/chunks.m3u8
-#EXTINF:0 group-title="Bangla (J)",Channel 9
+#EXTINF:0 group-title="Bangla",Channel 9
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/channel9hd.stream/chunks.m3u8
-#EXTINF:0 group-title="Bangla (J)",Deepto TV
+#EXTINF:0 group-title="Bangla",Deepto TV
 https://deepto.jaagobd.com:444/deepto/deeptotv.stream/chunks.m3u8
-#EXTINF:0 group-title="Bangla (J)",Desh TV
+#EXTINF:0 group-title="Bangla",Desh TV
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/deshtv.stream/chunks.m3u8
-#EXTINF:0 group-title="Bangla (J)",Ekushey TV
+#EXTINF:0 group-title="Bangla",Ekushey TV
 https://ekusheyserver.com/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
-#EXTINF:0 group-title="Bangla (J)",Global TV
+#EXTINF:0 group-title="Bangla",Global TV
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/globaltv.stream/chunks.m3u8
-#EXTINF:0 group-title="Bangla (J)",Mohona TV
+#EXTINF:0 group-title="Bangla",Mohona TV
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/mohonatv00000223232244556633.stream/chunks.m3u8
-#EXTINF:0 group-title="Bangla (J)",My TV
+#EXTINF:0 group-title="Bangla",My TV
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/mytv-up-off.stream/chunks.m3u8
-#EXTINF:0 group-title="Bangla (J)",RTV
+#EXTINF:0 group-title="Bangla",RTV
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/rtv-sg.stream/chunks.m3u8
-#EXTINF:0 group-title="Bangla (J)",SA TV
+#EXTINF:0 group-title="Bangla",SA TV
 https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/satvoff5666.stream/chunks.m3u8
 
-# BD News
-#EXTINF:0 tvg-id="ext" group-title="News (I)",ATN News
-http://tv.dugdugilive.com:8080/1Sky22/ATN-News/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="News (I)",Channel 24
-http://tv.dugdugilive.com:8080/1Sky22/Channel24/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="News (I)",DBC
-http://tv.dugdugilive.com:8080/1Sky22/DBC/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="News (I)",Ekattor TV
-http://tv.dugdugilive.com:8080/1Sky22/Ekattor/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="News (I)",Independent
-http://tv.dugdugilive.com:8080/1Sky22/Independent/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="News (I)",Jamuna TV
-http://tv.dugdugilive.com:8080/1Sky22/JamunaTV/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="News (I)",News 24
-http://tv.dugdugilive.com:8080/1Sky22/News24/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="News (I)",Somoy News
-http://tv.dugdugilive.com:8080/1Sky22/SomoyTV/index.m3u8
-
-#EXTINF:0 group-title="News (J)",Independent TV
+# News
+#EXTINF:0 group-title="News",Independent TV
 https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/independent-8-org.stream/chunks.m3u8
-#EXTINF:0 group-title="News (J)",Somoy TV
+#EXTINF:0 group-title="News",Somoy TV
 https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/somoyt000011226615544544.stream/chunks.m3u8
-#EXTINF:0 group-title="News (J)",Channel 24
+#EXTINF:0 group-title="News",Channel 24
 https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/channel24-sg-e8e.stream/chunks.m3u8
-#EXTINF:0 group-title="News (J)",Jamuna TV
+#EXTINF:0 group-title="News",Jamuna TV
 https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/jamuna-test-sample-ok.stream/chunks.m3u8
-#EXTINF:0 group-title="News (J)",News 24
+#EXTINF:0 group-title="News",News 24
 https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/news24local.stream/chunks.m3u8
-#EXTINF:0 group-title="News (J)",DBC News
+#EXTINF:0 group-title="News",DBC News
 https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/dbcnews.stream/chunks.m3u8
-#EXTINF:0 group-title="News (J)",DW News
+#EXTINF:0 group-title="News",DW News
 https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/dwnews.stream/chunks.m3u8
+#EXTINF:-1 group-title="News",BBC World News
+http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
+#EXTINF:0 group-title="News",Al Jazeera HD (1)
+https://live-hls-web-aje.getaj.net/AJE/02.m3u8
 
 # Islamic
-#EXTINF:0 tvg-id="ext" group-title="Islamic (I)",ATN Islamic
-http://tv.dugdugilive.com:8080/1Sky22/ATNIslamic/index.m3u8
-#EXTINF:0 group-title="Islam (J)",ATN Islamic
+#EXTINF:0 group-title="Islam",ATN Islamic
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/atnislamictv.stream/chunks.m3u8
-#EXTINF:0 group-title="Islam (J)",Makkah Live
+#EXTINF:0 group-title="Islam",Makkah Live
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/makkah.stream/chunks.m3u8
-#EXTINF:0 group-title="Islam (J)",Madina Live
+#EXTINF:0 group-title="Islam",Madina Live
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/medina.stream/chunks.m3u8
-#EXTINF:0 group-title="Islam (J)",Iqra Bangla TV
+#EXTINF:0 group-title="Islam",Iqra Bangla TV
 http://23.106.120.42:1934/c2VydmVyX4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/iqrabanglatvoffice.stream/live-orgin/iqrabanglatvoffice.stream/chunks.m3u8
 
-# Kids
-#EXTINF:0 tvg-id="ext" group-title="Kids",Nick
-http://tv.dugdugilive.com:8080/1Sky22/NickBN/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Kids",Cartoon Network
-http://tv.dugdugilive.com:8080/1Sky22/Cartoon/index.m3u8
-
 # Sports
-#EXTINF:0 tvg-id="ext" group-title="Sports (I)",Gazi TV
-http://tv.dugdugilive.com:8080/1Sky22/GaziTV/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Sports (I)",T Sports
-http://tv.dugdugilive.com:8080/TSports-Live/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Sports (I)",Live Sports
-http://tv.dugdugilive.com:8080/1Sky22/LiveSP/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Sports (I)",Sony Six
-http://tv.dugdugilive.com:8080/1Sky22/sonysix/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Sports (I)",Ten 1
-http://tv.dugdugilive.com:8080/1Sky22/sonyten1/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Sports (I)",Ten 2
-http://tv.dugdugilive.com:8080/1Sky22/sonyten2/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Sports (I)",Ten 3
-http://tv.dugdugilive.com:8080/1Sky22/sonyten3/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Sports (I)",Star Sports 1
-http://tv.dugdugilive.com:8080/1Sky22/StarSports22/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Sports (I)",PTV Sports
-http://tv.dugdugilive.com:8080/1Sky22/PTV/index.m3u8
-
-# Indian
-#EXTINF:0 tvg-id="ext" group-title="Indian (I)",Zee Bangla
-http://tv.dugdugilive.com:8080/1Sky22/ZeeBangla/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Indian (I)",Star Jalsa
-http://tv.dugdugilive.com:8080/1Sky22/starJalsa/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Indian (I)",Star Plus
-http://tv.dugdugilive.com:8080/1Sky22/StarPlus/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Indian (I)",Star Vharat
-http://tv.dugdugilive.com:8080/1Sky22/StarBharat/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Indian (I)",Colors Bangla
-http://tv.dugdugilive.com:8080/1Sky22/colors-bangla/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Indian (I)",Colors
-http://tv.dugdugilive.com:8080/1Sky22/Colors/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Indian (I)",Sony Aat
-http://tv.dugdugilive.com:8080/1Sky22/Dhoom/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Indian (I)",Sony TV
-http://tv.dugdugilive.com:8080/1Sky22/SonyTV/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Indian (I)",Zee TV
-http://tv.dugdugilive.com:8080/1Sky22/ZeeTV/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Indian (I)",Zee ETC
-http://tv.dugdugilive.com:8080/1Sky22/ZetcE24/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Indian (I)",&TV
-http://tv.dugdugilive.com:8080/1Sky22/AndTV/index.m3u8
+#EXTINF:-1 group-title="Live Sports", Live Sports 1
+http://15.1.5.14:8082/1LIVE/index.m3u8
+#EXTINF:-1 group-title="Live Sports", Live Sports 2
+http://15.1.5.14:8082/sony-six-hd/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Live Sports", Live Sports 3
+http://15.1.5.18:8082/ten1-hd/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Live Sports", Live Sports 4
+http://15.1.5.18:8082/sony-ten2/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Live Sports", Live Sports 5
+http://15.1.5.10:8082/Star_Sport_Select1HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Live Sports", Live Sports 6
+http://15.1.5.14:8082/select2/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Live Sports", Live Sports 7
+http://15.1.5.14:8082/STAR-SPORTS-2/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Live Sports", Live Sports 8
+http://15.1.5.10:8082/STAR-SPORTS-1/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Live Sports", Live Sports 9
+http://15.1.5.18:8082/tv13/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Live Sports", Live Sports 10
+http://15.1.5.22:8082/tv14/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Live Sports", Live Sports 11
+http://15.1.5.18:8082/Adsports1/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Live Sports", Live Sports 12
+http://15.1.5.18:8082/Adsports1/tracks-v1a1/mono.m3u8
 
 # Music
-#EXTINF:0 tvg-id="ext" group-title="Music",Gaan Bangla
-http://tv.dugdugilive.com:8080/1Sky22/GaanBangla/index.m3u8
 #EXTINF:0 group-title="Music",ATN Music
 https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/atnmusic.stream/chunks.m3u8
 #EXTINF:0 group-title="Music",Gaan Bangla
@@ -188,26 +109,18 @@ https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEo
 https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/rtvmusic.stream/chunks.m3u8
 #EXTINF:0 group-title="Music",Gaan Bangla
 https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/gaanbangla-8-orgd.stream/chunks.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Music",Dil Se Music
-http://tv.dugdugilive.com:8080/1Sky22/DilSe/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Music",Hangama Music
-http://tv.dugdugilive.com:8080/1Sky22/Kadak/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Music",B4U Music
-http://tv.dugdugilive.com:8080/1Sky22/B4U/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Music",Zoom Music
-http://tv.dugdugilive.com:8080/1Sky22/Zoom/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Music",MTV
-http://tv.dugdugilive.com:8080/1Sky22/MTVin/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Music",9xM
-http://tv.dugdugilive.com:8080/1Sky22/9xM/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Music",9xM Jalwa
-http://tv.dugdugilive.com:8080/1Sky22/9xjalwa/index.m3u8
+
+# Indian
+#EXTINF:0 group-title="Indian",Star Jalsa
+http://15.1.5.18:8082/jalsha/tracks-v1a1/mono.m3u8
+#EXTINF:0 group-title="Indian",Zee Bangla
+http://15.1.5.18:8082/zee-bangla/tracks-v1a1/mono.m3u8
+#EXTINF:0 group-title="Indian",Sony Aath
+http://15.1.5.18:8082/Sonyaath/tracks-v1a1/mono.m3u8
+#EXTINF:0 group-title="Indian",Sun Bangla
+http://15.1.5.18:8082/sunbangla/tracks-v1a1/mono.m3u8
 
 # Movies
-#EXTINF:0 tvg-id="ext" group-title="Movies",Jalsa Movies
-http://tv.dugdugilive.com:8080/1Sky22/jalshamovies/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Movies",Zee Cinema Bangla
-http://tv.dugdugilive.com:8080/1Sky22/ZeeBnCinema/index.m3u8
 #EXTINF:0 group-title="Movies",Movie Bangla
 https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/moviebanglalink2.stream/chunks.m3u8
 #EXTINF:0 group-title="Movies",Doyel TV
@@ -216,32 +129,14 @@ https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEo
 https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/mycinema-up2.stream/chunks.m3u8
 #EXTINF:0 group-title="Movies",Tehelka TV
 https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/tehelkatv.stream/chunks.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Movies",Zee Cinema
-http://tv.dugdugilive.com:8080/1Sky22/ZeeCinema/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Movies",&Pictures
-http://tv.dugdugilive.com:8080/1Sky22/AndPictures/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Movies",Zee Bollywood
-http://tv.dugdugilive.com:8080/1Sky22/ZBolloyWoord/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Movies",Sony Max
-http://tv.dugdugilive.com:8080/1Sky22/SonyMax/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Movies",Star Gold
-http://tv.dugdugilive.com:8080/1Sky22/StarGold/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Movies",Bflix
-http://tv.dugdugilive.com:8080/1Sky22/bFlix/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Movies",Sony Pix
-http://tv.dugdugilive.com:8080/1Sky22/SonyPix/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Movies",Star Movies
-http://tv.dugdugilive.com:8080/1Sky22/StarMovies/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Movies",&Prive
-http://tv.dugdugilive.com:8080/1Sky22/AndPrive/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Movies",HBO
-http://tv.dugdugilive.com:8080/1Sky22/HBO/index.m3u8
+#EXTINF:0 group-title="Movies",Lotus Macau
+http://15.1.5.22:8082/Lotus-Macau/tracks-v1a1/mono.m3u8
+#EXTINF:0 group-title="Movies",Jalsa Movies
+http://15.1.5.22:8082/jalsha-movies/tracks-v1a1/mono.m3u8
 
 # Others
-#EXTINF:0 tvg-id="ext" group-title="Others",Discovery
-http://tv.dugdugilive.com:8080/1Sky22/Discovery/index.m3u8
-#EXTINF:-1 group-title="Others",BBC World News
-http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
+#EXTINF:-1 group-title="Others",Bangla Talkies
+http://15.1.5.22:8082/BANGLA-TALKIES/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Others",Boogle Bollywood
 http://live.agmediachandigarh.com/booglebollywood/774e3ea9f3fa9bcdac47f445b83b6653.sdp/index.m3u8
 #EXTINF:-1 group-title="Others",Desi Channel
@@ -304,7 +199,7 @@ https://madnitv.vdn.dstreamone.net/madnitvbangla/madnibanglaabr/playlist.m3u8
 https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679/ndtvindia/ndtvindiamaster.m3u8
 #EXTINF:0 group-title="Others",Zee Bioskop
 http://210.210.155.35/qwr9ew/s/s32/01.m3u8
-#EXTINF:0 group-title="Others",Al Jazeera HD (1)
-https://live-hls-web-aje.getaj.net/AJE/02.m3u8
 #EXTINF:0 group-title="Others",Arirang
 http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+#EXTINF:-1 group-title="Others",Al Jazeera
+http://45.126.83.51/qwr9ew/s/s17/index.m3u8
