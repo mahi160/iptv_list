@@ -1,0 +1,81 @@
+#EXTM3U
+
+# bdiptv.net
+#EXTINF:-1 group-title="BDIPTV", Live 1
+http://15.1.5.14:8082/1LIVE/index.m3u8
+#EXTINF:-1 group-title="BDIPTV", Sony Six
+http://15.1.5.14:8082/sony-six-hd/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="BDIPTV", Ten 1
+http://15.1.5.18:8082/ten1-hd/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="BDIPTV", Ten 2
+http://15.1.5.18:8082/sony-ten2/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="BDIPTV", Star Select 1
+http://15.1.5.10:8082/Star_Sport_Select1HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="BDIPTV", Star Select 2
+http://15.1.5.14:8082/select2/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="BDIPTV", Star Sports 1
+http://15.1.5.10:8082/STAR-SPORTS-1/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="BDIPTV", Star Sports 2
+http://15.1.5.14:8082/STAR-SPORTS-2/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="BDIPTV", Live Sports 9
+http://15.1.5.18:8082/tv13/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="BDIPTV", Live Sports 10
+http://15.1.5.22:8082/tv14/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="BDIPTV", Live Sports 11
+http://15.1.5.18:8082/Adsports1/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="BDIPTV", Live Sports 12
+http://15.1.5.18:8082/Adsports1/tracks-v1a1/mono.m3u8
+
+# bciptv
+#EXTINF:-1 group-title="BCIPTV", Willow
+http://15.1.5.18:8082/willow-hd/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="BCIPTV", Sony Six
+http://15.1.5.22:8082/sony-six-hd/tracks-v1a1
+#EXTINF:-1 group-title="BCIPTV", Ten 1
+http://15.1.5.14:8082/ten1-hd/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="BCIPTV", Ten 2
+http://15.1.5.22:8082/sony-ten2/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="BCIPTV", Ten 3
+http://15.1.5.14:8082/ten3/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="BCIPTV", PTV Sports
+http://15.1.5.22:8082/PTV-SPORTS/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="BCIPTV", Star Select 1
+http://15.1.5.22:8082/PTV-SPORTS/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="BCIPTV", Star Select 2
+http://15.1.5.14:8082/select2/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="BCIPTV", Star Sports 1
+http://15.1.5.18:8082/STAR-SPORTS-1/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="BCIPTV", Star Sports 2
+http://15.1.5.14:8082/STAR-SPORTS-2/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="BCIPTV", Sports 1
+http://15.1.5.22:8082/tv13/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="BCIPTV", Sports 2
+http://15.1.5.18:8082/tv14/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="BCIPTV", Sports 3
+http://15.1.5.14:8082/Adsports1/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="BCIPTV", Sports 4
+http://15.1.5.18:8082/Adsports2/tracks-v1a1/mono.m3u8
+
+# Timepass BD Live http:/http://30.30.30.30/
+#EXTINF:0 group-title="Live Sports", Unix TV 01
+http://30.30.30.30:8080/live/skyfeed1005/index.m3u8
+#EXTINF:0 group-title="Live Sports", Unix TV 02
+http://30.30.30.30:8080/live/skyfeed1006/index.m3u8
+#EXTINF:0 group-title="Live Sports", Unix TV 03
+http://30.30.30.30:8080/live/skyfeed1007/index.m3u8
+#EXTINF:0 group-title="Live Sports", Unix TV 04
+http://30.30.30.30:8080/live/skyfeed1008/index.m3u8
+#EXTINF:0 group-title="Live Sports", Unix TV 05
+http://30.30.30.30:8080/live/skyfeed1009/index.m3u8
+#EXTINF:0 group-title="Live Sports", Unix TV 06
+http://30.30.30.30:8080/live/skyfeed1010/index.m3u8
+#EXTINF:0 group-title="Live Sports", Unix TV 07
+http://30.30.30.30:8080/live/skyfeed1011/index.m3u8
+#EXTINF:0 group-title="Live Sports", Unix TV 08
+http://30.30.30.30:8080/live/skyfeed1012/index.m3u8
+
+# Free TV http://http://172.16.29.28/
+#EXTINF:0 group-title="Live Sports", Free TV 01
+http://172.16.29.28:8080/hls/live1-fnet.m3u8
+#EXTINF:0 group-title="Live Sports", Free TV 02
+http://172.16.29.28/hls/sports3.m3u8
