@@ -85,63 +85,58 @@ https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF
 http://23.106.120.42:1934/c2VydmVyX4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/iqrabanglatvoffice.stream/live-orgin/iqrabanglatvoffice.stream/chunks.m3u8
 
 # Sports
-#EXTINF:-1 group-title="Sports", TSports
-http://172.16.50.2:8082/T-Sports/index.m3u8
-#EXTINF:-1 group-title="Sports", Willow
-http://15.1.5.18:8082/willow-hd/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Sports", Live 1
+http://15.1.5.14:8082/1LIVE/index.m3u8?token=370dc50073a2428ef5cc476764692b71dfc5aad2-5094d4ab61bf364893f3bd4482c3eeb1-1693401294-1693390494
 #EXTINF:-1 group-title="Sports", Sony Six
-http://15.1.5.22:8082/sony-six-hd/tracks-v1a1
+http://15.1.5.14:8082/sony-six-hd/tracks-v1a1/mono.m3u8?token=370dc50073a2428ef5cc476764692b71dfc5aad2-5094d4ab61bf364893f3bd4482c3eeb1-1693401294-1693390494
 #EXTINF:-1 group-title="Sports", Ten 1
-http://15.1.5.14:8082/ten1-hd/tracks-v1a1/mono.m3u8
+http://15.1.5.14:8082/ten1-hd/tracks-v1a1/mono.m3u8?token=370dc50073a2428ef5cc476764692b71dfc5aad2-5094d4ab61bf364893f3bd4482c3eeb1-1693401294-1693390494
 #EXTINF:-1 group-title="Sports", Ten 2
-http://15.1.5.22:8082/sony-ten2/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Sports", Ten 3
-http://15.1.5.14:8082/ten3/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Sports", PTV Sports
-http://15.1.5.22:8082/PTV-SPORTS/tracks-v1a1/mono.m3u8
+http://15.1.5.14:8082/sony-ten2/tracks-v1a1/mono.m3u8?token=370dc50073a2428ef5cc476764692b71dfc5aad2-5094d4ab61bf364893f3bd4482c3eeb1-1693401294-1693390494
 #EXTINF:-1 group-title="Sports", Star Select 1
-http://15.1.5.22:8082/PTV-SPORTS/tracks-v1a1/mono.m3u8
+http://15.1.5.14:8082/Star_Sport_Select1HD/tracks-v1a1/mono.m3u8?token=370dc50073a2428ef5cc476764692b71dfc5aad2-5094d4ab61bf364893f3bd4482c3eeb1-1693401294-1693390494
 #EXTINF:-1 group-title="Sports", Star Select 2
-http://15.1.5.14:8082/select2/tracks-v1a1/mono.m3u8
+http://15.1.5.14:8082/select2/tracks-v1a1/mono.m3u8?token=370dc50073a2428ef5cc476764692b71dfc5aad2-5094d4ab61bf364893f3bd4482c3eeb1-1693401294-1693390494
 #EXTINF:-1 group-title="Sports", Star Sports 1
-http://15.1.5.18:8082/STAR-SPORTS-1/tracks-v1a1/mono.m3u8
+http://15.1.5.14:8082/STAR-SPORTS-1/tracks-v1a1/mono.m3u8?token=370dc50073a2428ef5cc476764692b71dfc5aad2-5094d4ab61bf364893f3bd4482c3eeb1-1693401294-1693390494
 #EXTINF:-1 group-title="Sports", Star Sports 2
-http://15.1.5.14:8082/STAR-SPORTS-2/tracks-v1a1/mono.m3u8
+http://15.1.5.14:8082/STAR-SPORTS-2/tracks-v1a1/mono.m3u8?token=370dc50073a2428ef5cc476764692b71dfc5aad2-5094d4ab61bf364893f3bd4482c3eeb1-1693401294-1693390494
+#EXTINF:-1 group-title="Sports", Live Sports 9
+http://15.1.5.14:8082/tv13/tracks-v1a1/mono.m3u8?token=370dc50073a2428ef5cc476764692b71dfc5aad2-5094d4ab61bf364893f3bd4482c3eeb1-1693401294-1693390494
+#EXTINF:-1 group-title="Sports", Live Sports 10
+http://15.1.5.14:8082/tv14/tracks-v1a1/mono.m3u8?token=370dc50073a2428ef5cc476764692b71dfc5aad2-5094d4ab61bf364893f3bd4482c3eeb1-1693401294-1693390494
+#EXTINF:-1 group-title="Sports", Live Sports 11
+http://15.1.5.14:8082/Adsports1/tracks-v1a1/mono.m3u8?token=370dc50073a2428ef5cc476764692b71dfc5aad2-5094d4ab61bf364893f3bd4482c3eeb1-1693401294-1693390494
+#EXTINF:-1 group-title="Sports", Live Sports 12
+http://15.1.5.14:8082/Adsports1/tracks-v1a1/mono.m3u8?token=370dc50073a2428ef5cc476764692b71dfc5aad2-5094d4ab61bf364893f3bd4482c3eeb1-1693401294-1693390494
+#EXTINF:-1 group-title="Sports", Willow
+http://15.1.5.14:8082/willow-hd/tracks-v1a1/mono.m3u8?token=370dc50073a2428ef5cc476764692b71dfc5aad2-5094d4ab61bf364893f3bd4482c3eeb1-1693401294-1693390494
+#EXTINF:-1 group-title="Sports", Sony Six
+http://15.1.5.14:8082/sony-six-hd/tracks-v1a1/mono.m3u8?token=370dc50073a2428ef5cc476764692b71dfc5aad2-5094d4ab61bf364893f3bd4482c3eeb1-1693401294-1693390494
+#EXTINF:-1 group-title="Sports", Ten 1
+http://15.1.5.14:8082/ten1-hd/tracks-v1a1/mono.m3u8?token=370dc50073a2428ef5cc476764692b71dfc5aad2-5094d4ab61bf364893f3bd4482c3eeb1-1693401294-1693390494
+#EXTINF:-1 group-title="Sports", Ten 2
+http://15.1.5.14:8082/sony-ten2/tracks-v1a1/mono.m3u8?token=370dc50073a2428ef5cc476764692b71dfc5aad2-5094d4ab61bf364893f3bd4482c3eeb1-1693401294-1693390494
+#EXTINF:-1 group-title="Sports", Ten 3
+http://15.1.5.14:8082/ten3/tracks-v1a1/mono.m3u8?token=370dc50073a2428ef5cc476764692b71dfc5aad2-5094d4ab61bf364893f3bd4482c3eeb1-1693401294-1693390494
+#EXTINF:-1 group-title="Sports", PTV Sports
+http://15.1.5.14:8082/PTV-SPORTS/tracks-v1a1/mono.m3u8?token=370dc50073a2428ef5cc476764692b71dfc5aad2-5094d4ab61bf364893f3bd4482c3eeb1-1693401294-1693390494
+#EXTINF:-1 group-title="Sports", Star Select 1
+http://15.1.5.14:8082/PTV-SPORTS/tracks-v1a1/mono.m3u8?token=370dc50073a2428ef5cc476764692b71dfc5aad2-5094d4ab61bf364893f3bd4482c3eeb1-1693401294-1693390494
+#EXTINF:-1 group-title="Sports", Star Select 2
+http://15.1.5.14:8082/select2/tracks-v1a1/mono.m3u8?token=370dc50073a2428ef5cc476764692b71dfc5aad2-5094d4ab61bf364893f3bd4482c3eeb1-1693401294-1693390494
+#EXTINF:-1 group-title="Sports", Star Sports 1
+http://15.1.5.14:8082/STAR-SPORTS-1/tracks-v1a1/mono.m3u8?token=370dc50073a2428ef5cc476764692b71dfc5aad2-5094d4ab61bf364893f3bd4482c3eeb1-1693401294-1693390494
+#EXTINF:-1 group-title="Sports", Star Sports 2
+http://15.1.5.14:8082/STAR-SPORTS-2/tracks-v1a1/mono.m3u8?token=370dc50073a2428ef5cc476764692b71dfc5aad2-5094d4ab61bf364893f3bd4482c3eeb1-1693401294-1693390494
 #EXTINF:-1 group-title="Sports", Sports 1
-http://15.1.5.22:8082/tv13/tracks-v1a1/mono.m3u8
+http://15.1.5.14:8082/tv13/tracks-v1a1/mono.m3u8?token=370dc50073a2428ef5cc476764692b71dfc5aad2-5094d4ab61bf364893f3bd4482c3eeb1-1693401294-1693390494
 #EXTINF:-1 group-title="Sports", Sports 2
-http://15.1.5.18:8082/tv14/tracks-v1a1/mono.m3u8
+http://15.1.5.14:8082/tv14/tracks-v1a1/mono.m3u8?token=370dc50073a2428ef5cc476764692b71dfc5aad2-5094d4ab61bf364893f3bd4482c3eeb1-1693401294-1693390494
 #EXTINF:-1 group-title="Sports", Sports 3
-http://15.1.5.14:8082/Adsports1/tracks-v1a1/mono.m3u8
+http://15.1.5.14:8082/Adsports1/tracks-v1a1/mono.m3u8?token=370dc50073a2428ef5cc476764692b71dfc5aad2-5094d4ab61bf364893f3bd4482c3eeb1-1693401294-1693390494
 #EXTINF:-1 group-title="Sports", Sports 4
-http://15.1.5.18:8082/Adsports2/tracks-v1a1/mono.m3u8
-
-# Live Sports
-#EXTINF:-1 group-title="Live Sports", Live 1
-http://15.1.5.14:8082/1LIVE/index.m3u8
-#EXTINF:-1 group-title="Live Sports", Live 2
-http://172.16.50.2:8082/Live-2/index.m3u8
-#EXTINF:0 group-title="Live Sports", Unix TV 01
-http://30.30.30.30:8080/live/skyfeed1005/index.m3u8
-#EXTINF:0 group-title="Live Sports", Unix TV 02
-http://30.30.30.30:8080/live/skyfeed1006/index.m3u8
-#EXTINF:0 group-title="Live Sports", Unix TV 03
-http://30.30.30.30:8080/live/skyfeed1007/index.m3u8
-#EXTINF:0 group-title="Live Sports", Unix TV 04
-http://30.30.30.30:8080/live/skyfeed1008/index.m3u8
-#EXTINF:0 group-title="Live Sports", Unix TV 05
-http://30.30.30.30:8080/live/skyfeed1009/index.m3u8
-#EXTINF:0 group-title="Live Sports", Unix TV 06
-http://30.30.30.30:8080/live/skyfeed1010/index.m3u8
-#EXTINF:0 group-title="Live Sports", Unix TV 07
-http://30.30.30.30:8080/live/skyfeed1011/index.m3u8
-#EXTINF:0 group-title="Live Sports", Unix TV 08
-http://30.30.30.30:8080/live/skyfeed1012/index.m3u8
-#EXTINF:0 group-title="Live Sports", Free TV 01
-http://172.16.29.28:8080/hls/live1-fnet.m3u8
-#EXTINF:0 group-title="Live Sports", Free TV 02
-http://172.16.29.28/hls/sports3.m3u8
-
+http://15.1.5.14:8082/Adsports2/tracks-v1a1/mono.m3u8?token=370dc50073a2428ef5cc476764692b71dfc5aad2-5094d4ab61bf364893f3bd4482c3eeb1-1693401294-1693390494
 
 # Music
 #EXTINF:0 group-title="Music",ATN Music
