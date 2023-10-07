@@ -85,6 +85,8 @@ https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF
 http://23.106.120.42:1934/c2VydmVyX4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/iqrabanglatvoffice.stream/live-orgin/iqrabanglatvoffice.stream/chunks.m3u8
 
 # Sports
+#EXTINF:-1 group-title="Sports", Live 2
+http://10.16.100.212:8080/hls/StarSports1HD.m3u8
 #EXTINF:-1 group-title="Sports", Live 1
 http://15.1.5.14:8082/1LIVE/index.m3u8?token=370dc50073a2428ef5cc476764692b71dfc5aad2-5094d4ab61bf364893f3bd4482c3eeb1-1693401294-1693390494
 #EXTINF:-1 group-title="Sports", Sony Six
