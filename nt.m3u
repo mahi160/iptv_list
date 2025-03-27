@@ -9,3 +9,9 @@ https://live-hls-web-aje.getaj.net/AJE/02.m3u8
 
 #EXTINF:-1 group-title="Sports",Live Sports 1
 http://103.89.248.26:8082/1LIVE/index.fmp4.m3u8
+
+
+#EXTINF:-1 group-title="Bangla",BTV
+https://www.btvlive.gov.bd/streams/3040f1db-80bf-422a-b0a4-0795e6de4ad3/BD/355ba051-9a60-48aa-adcf-5a6c64da8c5c/355ba051-9a60-48aa-adcf-5a6c64da8c5c_3_playlist.m3u8
+#EXTINF:-1 group-title="Bangla",Deshi TV
+https://deshitv.deshitv24.net/live/myStream/playlist.m3u8
