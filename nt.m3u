@@ -2,3 +2,7 @@
 
 #EXTINF: -1,Deepto TV
 https://byphdgllyk.gpcdn.net/hls/DeeptoTV/0_1/index.m3u8
+#EXTINF:0 group-title="Bangla",Ekushey TV
+https://ekusheyserver.com/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
+#EXTINF:0 group-title="News",Al Jazeera HD (1)
+https://live-hls-web-aje.getaj.net/AJE/02.m3u8
