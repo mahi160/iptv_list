@@ -1,17 +1,10 @@
 #EXTM3U
 
-#EXTINF: -1,Deepto TV
+#EXTINF:-1 tvg-logo="https://jcwsw2vt33.gpcdn.net/uploads/images/2022/07/25/logos_1384ea456744d5914ba331fa72df78c8_goplay_deepto_logo_final_white.svg", Deepto TV
 https://byphdgllyk.gpcdn.net/hls/DeeptoTV/0_1/index.m3u8
-#EXTINF:0 group-title="Bangla",Ekushey TV
+
+#EXTINF:0 group-title="Bangla" tvg-logo="https://www.ekushey-tv.com/media/common/EkusheyTVLogo.png", Ekushey TV
 https://ekusheyserver.com/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
-#EXTINF:0 group-title="News",Al Jazeera HD (1)
+
+#EXTINF:0 group-title="News" tvg-logo="https://logos-world.net/wp-content/uploads/2023/04/Al-Jazeera-Logo-500x281.png", Al Jazeera
 https://live-hls-web-aje.getaj.net/AJE/02.m3u8
-
-#EXTINF:-1 group-title="Sports",Live Sports 1
-http://103.89.248.26:8082/1LIVE/index.fmp4.m3u8
-
-
-#EXTINF:-1 group-title="Bangla",BTV
-https://www.btvlive.gov.bd/streams/3040f1db-80bf-422a-b0a4-0795e6de4ad3/BD/355ba051-9a60-48aa-adcf-5a6c64da8c5c/355ba051-9a60-48aa-adcf-5a6c64da8c5c_3_playlist.m3u8
-#EXTINF:-1 group-title="Bangla",Deshi TV
-https://deshitv.deshitv24.net/live/myStream/playlist.m3u8
