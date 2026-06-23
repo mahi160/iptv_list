@@ -112,3 +112,52 @@ http://alvetv.com/moviebanglatv/8080/index.m3u8
 
 #EXTINF:-1 group-title="Islamic",Madani Channel Bangla
 https://streaming.madanichannel.tv/static/streaming-playlists/hls/d3e49b76-ac06-4689-a641-9200445b647f/master.m3u8
+
+
+#EXTINF:-1 group-title="Bangla",Channel 1701
+https://owrcovcrpy.gpcdn.net/bpk-tv/1701/output/1701.m3u8
+
+#EXTINF:-1 group-title="Bangla",Channel 1707
+https://owrcovcrpy.gpcdn.net/bpk-tv/1707/output/1707.m3u8
+
+#EXTINF:-1 group-title="Bangla",Channel 1712
+https://owrcovcrpy.gpcdn.net/bpk-tv/1712/output/1712.m3u8
+
+#EXTINF:-1 group-title="Bangla",Channel 1713
+https://owrcovcrpy.gpcdn.net/bpk-tv/1713/output/1713.m3u8
+
+#EXTINF:-1 group-title="Bangla",Channel 1714
+https://owrcovcrpy.gpcdn.net/bpk-tv/1714/output/1714.m3u8
+
+#EXTINF:-1 group-title="Bangla",Channel 1717
+https://owrcovcrpy.gpcdn.net/bpk-tv/1717/output/1717.m3u8
+
+#EXTINF:-1 group-title="Bangla",Channel 1718
+https://owrcovcrpy.gpcdn.net/bpk-tv/1718/output/1718.m3u8
+
+#EXTINF:-1 group-title="Bangla",Channel 1719
+https://owrcovcrpy.gpcdn.net/bpk-tv/1719/output/1719.m3u8
+
+#EXTINF:-1 group-title="Bangla",Channel 1720
+https://owrcovcrpy.gpcdn.net/bpk-tv/1720/output/1720.m3u8
+
+#EXTINF:-1 group-title="Bangla",Channel 1721
+https://owrcovcrpy.gpcdn.net/bpk-tv/1721/output/1721.m3u8
+
+#EXTINF:-1 group-title="Bangla",Channel 1724
+https://owrcovcrpy.gpcdn.net/bpk-tv/1724/output/1724.m3u8
+
+#EXTINF:-1 group-title="Bangla",Channel 1726
+https://owrcovcrpy.gpcdn.net/bpk-tv/1726/output/1726.m3u8
+
+#EXTINF:-1 group-title="Bangla",Channel 1727
+https://owrcovcrpy.gpcdn.net/bpk-tv/1727/output/1727.m3u8
+
+#EXTINF:-1 group-title="Bangla",Channel 1730
+https://owrcovcrpy.gpcdn.net/bpk-tv/1730/output/1730.m3u8
+
+#EXTINF:-1 group-title="Bangla",Channel 1731
+https://owrcovcrpy.gpcdn.net/bpk-tv/1731/output/1731.m3u8
+
+#EXTINF:-1 group-title="Bangla",Channel 1732
+https://owrcovcrpy.gpcdn.net/bpk-tv/1732/output/1732.m3u8
