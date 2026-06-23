@@ -123,7 +123,7 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1707/output/1707.m3u8
 #EXTINF:-1 group-title="Bangla",Channel 1712
 https://owrcovcrpy.gpcdn.net/bpk-tv/1712/output/1712.m3u8
 
-#EXTINF:-1 group-title="Bangla",Channel 1713
+#EXTINF:-1 group-title="Islamic",Makkah TV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1713/output/1713.m3u8
 
 #EXTINF:-1 group-title="Bangla",Channel 1714
@@ -138,13 +138,13 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1718/output/1718.m3u8
 #EXTINF:-1 group-title="Bangla",Channel 1719
 https://owrcovcrpy.gpcdn.net/bpk-tv/1719/output/1719.m3u8
 
-#EXTINF:-1 group-title="Bangla",Channel 1720
+#EXTINF:-1 group-title="Bangla",SRK TV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1720/output/1720.m3u8
 
-#EXTINF:-1 group-title="Bangla",Channel 1721
+#EXTINF:-1 tvg-id="AlJazeera.qa" group-title="News",Al Jazeera
 https://owrcovcrpy.gpcdn.net/bpk-tv/1721/output/1721.m3u8
 
-#EXTINF:-1 group-title="Bangla",Channel 1724
+#EXTINF:-1 group-title="Bangla",Desh TV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1724/output/1724.m3u8
 
 #EXTINF:-1 group-title="Bangla",Channel 1726
