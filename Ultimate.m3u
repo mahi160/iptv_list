@@ -1,59 +1,124 @@
 #EXTM3U
-#EXTINF:-1,ATN Music (360p)
-https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/atnmusic.stream/playlist.m3u8
-#EXTINF:-1,ATN News (1080p)
+
+# =========================
+# 🇧🇩 Bangladesh News
+# =========================
+
+#EXTINF:-1 tvg-id="ATNNews.bd" group-title="🇧🇩 News",ATN News
 https://owrcovcrpy.gpcdn.net/bpk-tv/1706/output/1706.m3u8
-#EXTINF:-1,Bangla Vision (1080p)
-https://owrcovcrpy.gpcdn.net/bpk-tv/1715/output/index.m3u8
-#EXTINF:-1,Boishakhi TV
-https://boishakhi.sonarbanglatv.com/boishakhi/boishakhitv/index.m3u8
-#EXTINF:-1,BTV National (1080p)
-https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/1709.m3u8
-#EXTINF:-1,Channel 9 (1080p)
-https://owrcovcrpy.gpcdn.net/bpk-tv/1729/output/index.m3u8
-#EXTINF:-1,Channel 24 (1080p)
+
+#EXTINF:-1 tvg-id="Channel24.bd" group-title="🇧🇩 News",Channel 24
 https://owrcovcrpy.gpcdn.net/bpk-tv/1703/output/index.m3u8
-#EXTINF:-1,Channel I (1080p)
-https://owrcovcrpy.gpcdn.net/bpk-tv/1723/output/index.m3u8
-#EXTINF:-1,DBC News (1080p)
+
+#EXTINF:-1 tvg-id="DBCNews.bd" group-title="🇧🇩 News",DBC News
 https://owrcovcrpy.gpcdn.net/bpk-tv/1728/output/index.m3u8
-#EXTINF:-1,Deepto TV (1080p)
-https://owrcovcrpy.gpcdn.net/bpk-tv/1711/output/index.m3u8
-#EXTINF:-1,Ekattor TV (1080p)
+
+#EXTINF:-1 tvg-id="EkattorTV.bd" group-title="🇧🇩 News",Ekattor TV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1705/output/1705.m3u8
-#EXTINF:-1,Ekushey TV (480p)
-https://ekusheyserver.com/etvlivesn.m3u8
-#EXTINF:-1,Independent TV (1080p)
+
+#EXTINF:-1 tvg-id="IndependentTV.bd" group-title="🇧🇩 News",Independent TV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1704/output/1704.m3u8
-#EXTINF:-1,Maasranga TV (1080p)
-https://owrcovcrpy.gpcdn.net/bpk-tv/1722/output/index.m3u8
-#EXTINF:-1,Madani Channel Bangla (1080p)
-https://streaming.madanichannel.tv/static/streaming-playlists/hls/d3e49b76-ac06-4689-a641-9200445b647f/master.m3u8
-#EXTINF:-1,Movie Bangla
-http://alvetv.com/moviebanglatv/8080/index.m3u8
-#EXTINF:-1,News 24 (1080p)
+
+#EXTINF:-1 tvg-id="News24.bd" group-title="🇧🇩 News",News24
 https://owrcovcrpy.gpcdn.net/bpk-tv/1708/output/1708.m3u8
-#EXTINF:-1,NTV (1080p)
-https://owrcovcrpy.gpcdn.net/bpk-tv/1716/output/index.m3u8
-#EXTINF:-1,Somoy News TV (1080p)
+
+#EXTINF:-1 tvg-id="SomoyTV.bd" group-title="🇧🇩 News",Somoy News
 https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/index.m3u8
-#EXTINF:-1,Star News (1080p)
+
+#EXTINF:-1 group-title="🇧🇩 News",Star News
 https://owrcovcrpy.gpcdn.net/bpk-tv/1710/output/index.m3u8
-#EXTINF:-1,Sports 5
-http://172.20.3.1:3255/TSportsHD_sf_bdix/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Desi Plus
-http://cdn2.live247stream.com/desiplus/tv/playlist.m3u8
-#EXTINF:-1,NDTV 24x7
+
+
+# =========================
+# 🇧🇩 Bangladesh Entertainment
+# =========================
+
+#EXTINF:-1 tvg-id="BanglaVision.bd" group-title="🇧🇩 Entertainment",Bangla Vision
+https://owrcovcrpy.gpcdn.net/bpk-tv/1715/output/index.m3u8
+
+#EXTINF:-1 tvg-id="BoishakhiTV.bd" group-title="🇧🇩 Entertainment",Boishakhi TV
+https://boishakhi.sonarbanglatv.com/boishakhi/boishakhitv/index.m3u8
+
+#EXTINF:-1 tvg-id="BTV.bd" group-title="🇧🇩 Entertainment",BTV National
+https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/1709.m3u8
+
+#EXTINF:-1 group-title="🇧🇩 Entertainment",Channel 9
+https://owrcovcrpy.gpcdn.net/bpk-tv/1729/output/index.m3u8
+
+#EXTINF:-1 tvg-id="ChannelI.bd" group-title="🇧🇩 Entertainment",Channel i
+https://owrcovcrpy.gpcdn.net/bpk-tv/1723/output/index.m3u8
+
+#EXTINF:-1 tvg-id="DeeptoTV.bd" group-title="🇧🇩 Entertainment",Deepto TV
+https://owrcovcrpy.gpcdn.net/bpk-tv/1711/output/index.m3u8
+
+#EXTINF:-1 tvg-id="EkusheyTV.bd" group-title="🇧🇩 Entertainment",Ekushey TV
+https://ekusheyserver.com/etvlivesn.m3u8
+
+#EXTINF:-1 tvg-id="MaasrangaTV.bd" group-title="🇧🇩 Entertainment",Maasranga TV
+https://owrcovcrpy.gpcdn.net/bpk-tv/1722/output/index.m3u8
+
+#EXTINF:-1 tvg-id="NTV.bd" group-title="🇧🇩 Entertainment",NTV
+https://owrcovcrpy.gpcdn.net/bpk-tv/1716/output/index.m3u8
+
+
+# =========================
+# 🎵 Music
+# =========================
+
+#EXTINF:-1 tvg-id="ATNMusic.bd" group-title="🎵 Music",ATN Music
+https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/atnmusic.stream/playlist.m3u8
+
+
+# =========================
+# 🎬 Movies
+# =========================
+
+#EXTINF:-1 group-title="🎬 Movies",Movie Bangla
+http://alvetv.com/moviebanglatv/8080/index.m3u8
+
+
+# =========================
+# ☪️ Islamic
+# =========================
+
+#EXTINF:-1 group-title="☪️ Islamic",Madani Channel Bangla
+https://streaming.madanichannel.tv/static/streaming-playlists/hls/d3e49b76-ac06-4689-a641-9200445b647f/master.m3u8
+
+
+# =========================
+# 🇮🇳 India
+# =========================
+
+#EXTINF:-1 tvg-id="NDTV24x7.in" group-title="🇮🇳 India",NDTV 24x7
 https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/ndtv24x7master.m3u8
-#EXTINF:-1,92 News
-http://92news.vdn.dstreamone.net/92newshd/92hd/playlist.m3u8
-#EXTINF:-1,Zindagi TV
-https://5ad386ff92705.streamlock.net/live_transcoder/ngrp:zindagitv.stream_all/chunklist.m3u8
-#EXTINF:-1,CGTN
-https://news.cgtn.com/resource/live/english/cgtn-news.m3u8
-#EXTINF:-1,Channel NewsAsia
-https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
-#EXTINF:-1,NDTV India
+
+#EXTINF:-1 tvg-id="NDTVIndia.in" group-title="🇮🇳 India",NDTV India
 https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679/ndtvindia/ndtvindiamaster.m3u8
-#EXTINF:-1,Arirang
+
+#EXTINF:-1 group-title="🇮🇳 India",Zindagi TV
+https://5ad386ff92705.streamlock.net/live_transcoder/ngrp:zindagitv.stream_all/chunklist.m3u8
+
+#EXTINF:-1 group-title="🇮🇳 India",Desi Plus
+http://cdn2.live247stream.com/desiplus/tv/playlist.m3u8
+
+
+# =========================
+# 🇵🇰 Pakistan
+# =========================
+
+#EXTINF:-1 group-title="🇵🇰 Pakistan",92 News
+http://92news.vdn.dstreamone.net/92newshd/92hd/playlist.m3u8
+
+
+# =========================
+# 🌏 World News
+# =========================
+
+#EXTINF:-1 tvg-id="CGTN.cn" group-title="🌏 World News",CGTN
+https://news.cgtn.com/resource/live/english/cgtn-news.m3u8
+
+#EXTINF:-1 tvg-id="ChannelNewsAsia.sg" group-title="🌏 World News",Channel NewsAsia
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+
+#EXTINF:-1 tvg-id="ArirangTV.kr" group-title="🌏 World News",Arirang
 http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
